@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StarWarsProject</string>
+    <string name="menu_home_title">Home</string>
+    <string name="menu_favorites_title">Favorites</string>
+    <string name="filter_string_name">Filters</string>
+    <string name="filters_fragment_header">Filters</string>
+    <string name="сategory_chooser_hint">Main selection</string>
+
+    //Categories
+    <string-array name="categories">
+        <item>@string/people</item>
+        <item>@string/spaceships</item>
+        <item>@string/planets</item>
+    </string-array>
+    <string name="people">People</string>
+    <string name="spaceships">Spaceships</string>
+    <string name="planets">Planets</string>
+</resources>
